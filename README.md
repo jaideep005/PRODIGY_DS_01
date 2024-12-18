@@ -6,4 +6,5 @@ Welcome to my submission for Task 1 of the Data Science Internship at Prodigy In
 During the EDA process, I performed the following steps:
 
 Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
+
 Visualization: Created a bar chart, stacked chart to visualize the distribution of a categorical or continuous variable.
